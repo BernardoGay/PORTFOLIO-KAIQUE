@@ -31,6 +31,7 @@ Siga-me nas minhas redes sociais para acompanhar meu trabalho e interagir:
 
 - [Instagram](https://www.instagram.com/bernardx_03/profilecard/?igsh=eWNweHVtdjYxZndy)
 - [Facebook](https://www.facebook.com/share/VGn5GUuURn7zNHJ1/)
+- [Whatsapp](https://wa.me/qr/CGZBESHYRJAAL1)
 
 ## 🤝 Contribuições
 
