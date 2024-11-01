@@ -1,10 +1,8 @@
 # PORTFOLIO-KAIQUE
-<<<<<<< HEAD
 Vôlei e Musica
 # Olá, sou [Kaique Bernardo]!
 =======
 Vôlei e Música
->>>>>>> 8274ed131354b4b0d28b5708909e39a4ebb10a58
 
 Sou estudante de Pensamento Computacional, Matemática II (Programação), Matemática e Física. Além dos estudos, sou apaixonado por vôlei e música! Neste repositório, você encontrará projetos e estudos que combinam essas áreas.
 
